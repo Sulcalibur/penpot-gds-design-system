@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+._*
+
+# Penpot export scratch (the .penpot is a zip; unzipped trees are not tracked)
+/manifest.json
+/files/
+/objects/
